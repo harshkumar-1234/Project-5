@@ -1,0 +1,229 @@
+/*
+Name: Harsh Kumar
+Roll No: 2502901520150
+Date: 13/06/26
+*/
+
+/* BODY */
+
+body{
+
+    font-family: Arial, sans-serif;
+
+    font-size: 20px;
+
+    background-color: #f4f4f4;
+
+    color: #222222;
+
+}
+
+/* HEADER */
+
+header{
+
+    background-color: #111827;
+
+    color: white;
+
+    font-size: 26px;
+
+    font-family: Verdana, sans-serif;
+
+}
+
+/* ID SELECTOR */
+
+#my-name{
+
+    font-size: 55px;
+
+    color: #60a5fa;
+
+    font-family: Georgia, serif;
+
+}
+
+/* NAVIGATION */
+
+nav{
+
+    background-color: #2563eb;
+
+    font-size: 22px;
+
+    font-family: Arial, sans-serif;
+
+}
+
+/* NAV LINKS */
+
+nav a{
+
+    color: white;
+
+    font-size: 22px;
+
+    font-family: Verdana, sans-serif;
+
+}
+
+/* SECTIONS */
+
+section{
+
+    background-color: white;
+
+    font-size: 20px;
+
+    font-family: Arial, sans-serif;
+
+}
+
+/* HEADINGS */
+
+h2{
+
+    color: #1e3a8a;
+
+    font-size: 36px;
+
+    font-family: Georgia, serif;
+
+}
+
+/* CLASS SELECTOR */
+
+.skill-list{
+
+    background-color: #dbeafe;
+
+    color: #1e3a8a;
+
+    font-size: 22px;
+
+    font-family: Verdana, sans-serif;
+
+}
+
+/* TABLE */
+
+table{
+
+    background-color: white;
+
+    font-size: 20px;
+
+    color: #222222;
+
+}
+
+/* TABLE HEADERS */
+
+th{
+
+    background-color: #2563eb;
+
+    color: white;
+
+    font-size: 24px;
+
+}
+
+/* TABLE DATA */
+
+td{
+
+    background-color: #eff6ff;
+
+    color: #333333;
+
+    font-size: 20px;
+
+}
+
+/* FORM LABEL */
+
+label{
+
+    color: #1e3a8a;
+
+    font-size: 22px;
+
+    font-family: Arial, sans-serif;
+
+}
+
+/* INPUT */
+
+input{
+
+    background-color: white;
+
+    color: #222222;
+
+    font-size: 18px;
+
+    font-family: Arial, sans-serif;
+
+}
+
+/* TEXTAREA */
+
+textarea{
+
+    background-color: white;
+
+    color: #222222;
+
+    font-size: 18px;
+
+    font-family: Arial, sans-serif;
+
+}
+
+/* BUTTON */
+
+button{
+
+    background-color: #2563eb;
+
+    color: white;
+
+    font-size: 22px;
+
+    font-family: Verdana, sans-serif;
+
+}
+
+/* IFRAME */
+
+iframe{
+
+    background-color: #d1d5db;
+
+}
+
+/* PARAGRAPH */
+
+p{
+
+    font-size: 20px;
+
+    color: #333333;
+
+}
+
+/* FOOTER */
+
+footer{
+
+    background-color: #111827;
+
+    color: white;
+
+    font-size: 18px;
+
+    font-family: Verdana, sans-serif;
+
+}
